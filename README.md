@@ -1,2 +1,2 @@
 # parstin
-Persian Romanizer
+Romanisation of Persian
